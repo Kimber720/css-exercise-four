@@ -13,14 +13,14 @@ div {
   padding: 20px 25px;
 }
 
-@media screen and (min-width: 575px){
+@media screen and (min-width: 481px){
   div {
     margin: 1%;
     width: 48%;
   }
 }
 
-@media screen and (min-width: 991px){
+@media screen and (min-width: 1025px){
   div {
     margin: 3%;
     width: 22%;
